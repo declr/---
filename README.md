@@ -25,6 +25,6 @@
     
     [[Arduino] 파이썬에서 아두이노 제어하기](https://hyunsun99.tistory.com/5)
     
-를 설치하고 아두이노에서 실행시킨 후 파이썬에서 다시 실습을 하였다. 설치한 후 prototype 코드에서 통신 속도만 9600으로 변경해주고 sketches 내 폴더에 있는 prototype 폴더를 Arduino폴더에 복붙하였다.
-    
-또한, (pip install python-arduino를 cmd에 입력한 후) 기본서에서의 pip install arduino-python대신 pip install arduino-python3로 해주어야 한다.
+    를 설치하고 아두이노에서 실행시킨 후 파이썬에서 다시 실습을 하였다. 설치한 후 prototype 코드에서 통신 속도만 9600으로 변경해주고 sketches 내 폴더에 있는 prototype 폴더를 Arduino폴더에 복붙하였다.
+
+    또한, (pip install python-arduino를 cmd에 입력한 후) 기본서에서의 pip install arduino-python대신 pip install arduino-python3로 해주어야 한다.
