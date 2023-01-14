@@ -1,0 +1,14 @@
+from Arduino import Arduino
+import time
+
+def blink2(pin):
+  board.digitalWrite(pin, "LOW")
+  time.sleep(1)
+  board.digitalWrite(pin, "HIGH")
+  time.sleep(1)
+
+board = Arduino('9600')
+board.pinMode(13, "OUTPUT")
+
+while Ture:
+    blink2(13)
