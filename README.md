@@ -30,3 +30,6 @@
     또한, (pip install python-arduino를 cmd에 입력한 후) 기본서에서의 pip install arduino-python대신 pip install arduino-python3로 해주어야 한다.
 
 ### 2023년 1월 20일 17시 40분부터 20시 40분까지
+
+- 오늘은
+    - 푸쉬 버튼을 눌렀을 때 LED에 불이 들어오고 뗐을 때 불이 꺼지게 되는 회로를 구성하는 활동
