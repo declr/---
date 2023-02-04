@@ -226,9 +226,7 @@ C언어에서는 tone()함수를 이용하여 해당 주파수의 음을 내도�
 
 - 단순 LED를 제어하고 스위치로 제어하는 부분은 전에도 했던 부분이라 큰 어려움 없이 잘 진행했다.
 - LED와 7-세그먼트 제어하기는 원래의 교재에 없는 내용이라
-
     https://kocoafab.cc/tutorial/view/351 와 https://www.hackster.io/akhtar/simple-0-9-counter-dcba41
-
     를 참고해서 진행했다.
 
     
